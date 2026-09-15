@@ -89,6 +89,13 @@
 ## 🕒 作品清单 · 时间线
 
 > 社区投稿，**最新在上**。你的下一个作品，就在这条时间线上。
+### 2026 年 9 月
+
+**[QFNG521](https://github.com/QFNG521)**
+
+* :white_check_mark: [方块前线 BlockFront](https://qfng521.github.io/3d-game/cs/cs_v4/index.html)：网页 3D FPS 游戏，融合 Minecraft 方块风格与 FPS 射击，打开网页即玩、无需下载。🛠 AI Vibe Coding · [仓库](https://github.com/QFNG521/3d-game)
+
+
 
 ### 2026 年 7 月
 
