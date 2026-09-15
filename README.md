@@ -90,6 +90,12 @@
 
 > 社区投稿，**最新在上**。你的下一个作品，就在这条时间线上。
 
+### 2026 年 9 月
+
+**[QFNG521](https://github.com/QFNG521)**
+
+* :white_check_mark: [轻库](https://github.com/QFNG521/mysql-studio-tauri/releases)：本地优先的 MySQL 桌面客户端，Tauri 2 打造；支持直连 / SSH 隧道 / SSL 加密连接，SQL 编辑器带表名自动补全与多语句执行，可视化改表结构、浏览编辑数据，导出 CSV / JSON / Excel，密钥与数据都不出本机。🛠 WorkBuddy · [仓库](https://github.com/QFNG521/mysql-studio-tauri)
+
 ### 2026 年 7 月
 
 **[EloLin](https://github.com/DevEloLin)**
